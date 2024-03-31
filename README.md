@@ -57,6 +57,11 @@ Here are screenshots that show the DNK E-commerce application in use.
 
 ---
 
+**Logout**
+![Logout](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/36b6f8d6-3021-4a71-b039-5bda12a2dfca "Logout")
+
+---
+
 **Checkout Page**
 ![Checkout Page](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/7b84dec8-786c-4ea2-a1fe-7010be980bb7 "Checkout Page")
 
