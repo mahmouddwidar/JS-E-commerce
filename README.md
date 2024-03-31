@@ -2,7 +2,7 @@
 A Front-end Ecommerce project that enables customers to create accounts, explore products, add products to cart, and checkout.
 
 ## Demo video
-https://youtu.be/MKbgfboRp3Q
+[![JS E-commerce](https://img.youtube.com/vi/MKbgfboRp3Q/0.jpg)](https://www.youtube.com/watch?v=MKbgfboRp3Q)
 
 ## Project features
 - Signup and login.
