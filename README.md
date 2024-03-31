@@ -4,6 +4,14 @@ A Front-end Ecommerce project that enables customers to create accounts, explore
 ## Demo video
 [![JS E-commerce](https://img.youtube.com/vi/MKbgfboRp3Q/0.jpg)](https://www.youtube.com/watch?v=MKbgfboRp3Q)
 
+## Team Members
+* Ahmed Khaled
+* Ahmed Meligy
+* Mahmoud Dwidar
+* Ahmed Khalil
+* Ahmad Mohamad Ibrahim
+
+
 ## Project features
 - Signup and login.
 - Explore products.
@@ -11,13 +19,6 @@ A Front-end Ecommerce project that enables customers to create accounts, explore
 - Filter products based on price or category.
 - Add items to cart.
 - Modify your cart by removing or requesting specific quantities.
-
-## Team Members
-* Ahmed Khaled
-* Ahmed Meligy
-* Mahmoud Dwidar
-* Ahmed Khalil
-* Ahmad Mohamad Ibrahim
 
 ## Live Demonstration
 Here are screenshots that show the DNK E-commerce application in use.
